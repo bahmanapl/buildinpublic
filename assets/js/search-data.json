@@ -16,6 +16,22 @@
   
 
   
+      ,"page2": {
+          "title": "",
+          "content": "I write my current focus here to avoid distraction and track the process and hopefully progress.See the posts below if you are curious. . Posts .",
+          "url": "https://bahmanapl.github.io/buildinpublic/",
+          "relUrl": "/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -24,18 +40,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page9": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://bahmanapl.github.io/buildinpublic/robots.txt",

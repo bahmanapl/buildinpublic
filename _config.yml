@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Bahman Sadeghi
-description: I write my current focus here to avoid distraction and track the process and hopefully progress. 
+description:
 github_username: bahmanapl
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "buildinpublic"

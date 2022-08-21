@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "What I Do These Days",
+            "content": "Author : Bahman Sadeghi (21 August 2022) . What I do these days . Notes . FastAI course is my priority.I may be stuck in the process so I need other stuff to do while waiting for other people to answer my question , GPU come back to life or I sleep on the problem. . Studying Fastai 2022 course . Starting lecture 4 . Listen to the lecture carefully . | Run it while I am listening to the lecture for second time in Papersapce or kaggle . | . | Review previous lectures . | Try to build one project outside what Jeremy does in class After each subject(NLP for example) . | Create an API, and a website( Frontend and Backend for each project) . | . Write down my process in blog posts . Chriss teaches me 2 design patterns per week . Doing the 100 days challenge of walking up before 6:30 in the morning and documenting it on youtube . Reading and making notes of Python for Data Analysis Book(by Wes Mckinney) . Translate the book to persian and make it open source. . | Write down my process in blog posts . | . Review my python flashcards . Making a clone of worlde game . Listening to Youtube channels and seeing different ways of doing it. . | Write a simple static version with my idea. . | Check the infrastructure for scaling a high traffic static site . | Deploy and iterate the process . | .",
+            "url": "https://bahmanapl.github.io/buildinpublic/2022/08/21/What-I-Do-These-Days.html",
+            "relUrl": "/2022/08/21/What-I-Do-These-Days.html",
+            "date": " • Aug 21, 2022"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "I have lived in three different countries and traveled a few more. I have been student representative , translator , private tutor , short story writer, delli sandwich maker , security guard and researcher. Currently I am 90% software maker 5% writer and 5% fun. . I learned to be extrovert so I am an ambivert for a decade and half at least. I love learning new stuff.It would be cherry on the top if I could find few people to do it together. I am mostly questions statue que and like to look at a problem with different angles. (love finding a different point of view) . What matter the most to me : Modern Stoic principles ,Authenticity , Brutal honesty , learner and teacher mentality. My motivation are intrinsic as long as my basic human needs are covered. I use fastpages to make this page. .",
           "url": "https://bahmanapl.github.io/buildinpublic/about/",

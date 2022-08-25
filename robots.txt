@@ -1,1 +1,1 @@
-Sitemap: http://mydopeideas.com/sitemap.xml
+Sitemap: https://mydopeideas.com/sitemap.xml
